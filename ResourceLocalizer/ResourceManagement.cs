@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Copyrights(c) Charqe.io. All rights reserved.
+
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Globalization;
